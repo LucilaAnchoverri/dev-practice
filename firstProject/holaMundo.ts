@@ -1,1 +1,4 @@
-console.log("Hola Mundo");
+let showMessage = (): void =>{
+    console.log("Hola Mundo");
+}
+showMessage();
