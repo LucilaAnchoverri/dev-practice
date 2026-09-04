@@ -1,0 +1,5 @@
+En este repositorio llamado dev-practice desarrolle el módulo 0 de este curso, que comprende los fundamentos básicos de git. Para ello, dentro de este repositorio creé una carpeta llamada firstProject que es la raíz del proyecto.
+Realicé una rama main que es la versión final de mi código, y una rama llamada develop que es la rama en donde trabajo, en esta última desarrollé sub-ramas que fui mergeando a develop para formar un historial único. Hice 3 ramas correspondientes a los ejercicios de cada día. Dentro de estas ramas trabajé con 2 funciones que muestran mensajes al usuario a través de consola, estas son showMessage y showName. En showMessage se le muestra al usuario mediante consola el mensaje 'Hola Mundo', mientras que showName muestra por consola el nombre del usuario.
+Además resolví conflictos de merge manualmente, que se originaron debido a diferencias de contenido entre ramas.
+Finalicé el módulo 0 haciendo un pull request desde la subrama del ejercicio correspondiente al día 4, a develop para integrar todas las funcionalidades y tener un historial limpio y ordenado.
+Para las demás ramas utilicé un merge directo desde la terminal.
